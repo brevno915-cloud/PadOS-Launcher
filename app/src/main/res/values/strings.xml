@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PadOS Launcher</string>
+    <string name="search_hint">Search apps</string>
+    <string name="settings_label">Settings</string>
+    <string name="dock_label">Favorites</string>
+    <string name="wallpaper_label">Wallpaper</string>
+    <string name="theme_label">Theme</string>
+    <string name="brightness_label">Brightness</string>
+    <string name="default_wallpaper">PadOS Wallpaper</string>
+    <string name="about_text">PadOS Launcher is a native Android launcher prototype designed for tablet homescreens and app launch flows.</string>
+    <string name="missing_permission_text">Wallpaper access is unavailable on this device. You can still use the default wallpaper and app grid.</string>
+</resources>
